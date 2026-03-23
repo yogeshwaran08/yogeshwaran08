@@ -1,8 +1,19 @@
-# Hi there 👋, I'm Yogeshwaran
+# Hi there 👋, I'm Yogeshwaran R
+
+<img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" alt="Yogeshwaran R AI Developer" width="150" style="border-radius:50%" />
 
 ### 🚀 AI Developer | Web Developer | Problem Solver
 
-I'm a passionate developer focusing on building intelligent web applications and AI solutions. I assume the role of a bridge between complex AI models and user-friendly interfaces.
+I'm a passionate developer focused on building intelligent web applications and AI solutions. I bridge complex AI models with user-friendly interfaces.
+
+---
+
+### 🧠 About Me
+
+* 🔭 Currently working on AI + Web projects
+* 🌱 Learning advanced LLMs & system design
+* 💡 Interested in AI products & real-world impact
+* 📍 India
 
 ---
 
@@ -19,14 +30,21 @@ I'm a passionate developer focusing on building intelligent web applications and
 ### 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yogeshwaran08&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=yogeshwaran08&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Yogeshwaran R GitHub Streak Stats" />
 </div>
+
+---
+
+### 🌐 Portfolio
+
+👉 https://yogeshwaran.in
 
 ---
 
 ### 📫 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/yogeshwaran08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogeshwaran08" height="30" width="40" /></a>
-<!-- <a href="https://twitter.com/yogeshwaran08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yogeshwaran08" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/yogeshwaran08" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yogeshwaran R LinkedIn Profile" height="30" width="40" />
+</a>
 </p>
