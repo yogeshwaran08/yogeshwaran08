@@ -1,6 +1,11 @@
 # Hi there 👋, I'm Yogeshwaran R
 
-<img src="https://avatars.githubusercontent.com/u/85753695?v=4" alt="Yogeshwaran R AI Developer" width="150" style="border-radius:50%" />
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/85753695?v=4" 
+       alt="Yogeshwaran R AI Developer" 
+       width="150" />
+</p>
+
 
 ### 🚀 AI Developer | Web Developer | Problem Solver
 
